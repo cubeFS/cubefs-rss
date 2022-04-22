@@ -1,4 +1,4 @@
-# chubaofs-rss
+# cubefs-rss
 
 RSS provides remote shuffle capability to group and dump shuffle data into distribute file system by partition.
 
